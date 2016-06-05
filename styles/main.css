@@ -1,0 +1,19 @@
+/*.form-control {*/
+  .fa-exchange {
+    position: relative;
+    top: 1em;
+    position: relative;
+    left: 47%;
+  }
+
+  h1 {
+
+    position: relative;
+    right: 3em;
+  }
+
+  .input-group{
+
+    width: 65%;
+    border-radius: 5px;
+  }
